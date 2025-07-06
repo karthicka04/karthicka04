@@ -47,7 +47,8 @@
 ### 📫 Connect With Me
 
 - 📧 Email: **karthickakannan004@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/karthickakannan004]([https://linkedin.com/in/karthickakannan004])
+- 💼 LinkedIn: **www.linkedin.com/in/
+karthicka-k-62059a256**
 
 ---
 
