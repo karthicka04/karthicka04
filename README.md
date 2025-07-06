@@ -42,19 +42,12 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthickakannan004&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthickakannan004&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
 - 📧 Email: **karthickakannan004@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/karthickakannan004]([https://linkedin.com/in/karthickakannan004](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+- 💼 LinkedIn: [linkedin.com/in/karthickakannan004]([https://linkedin.com/in/karthickakannan004])
 
 ---
 
@@ -65,6 +58,3 @@
 
 ---
 
-### 🔥 Contribution Graph
-
-[![Karthicka's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karthickakannan004&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
