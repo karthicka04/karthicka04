@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthicka K.</h1>
 <h3 align="center">Aspiring Full Stack Developer | Django Enthusiast | Passionate Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthickakannan004&label=Profile%20views&color=0e75b6&style=flat" alt="karthickakannan004" />
-</p>
 
 ---
 
